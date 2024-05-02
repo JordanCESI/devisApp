@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fafa3725.css",
-    "main.js": "/static/js/main.55dca492.js",
-    "static/js/453.a9db9197.chunk.js": "/static/js/453.a9db9197.chunk.js",
-    "index.html": "/index.html",
-    "main.fafa3725.css.map": "/static/css/main.fafa3725.css.map",
-    "main.55dca492.js.map": "/static/js/main.55dca492.js.map",
-    "453.a9db9197.chunk.js.map": "/static/js/453.a9db9197.chunk.js.map"
+    "main.css": "/devisapp/static/css/main.fafa3725.css",
+    "main.js": "/devisapp/static/js/main.cdf7f74a.js",
+    "static/js/453.a9db9197.chunk.js": "/devisapp/static/js/453.a9db9197.chunk.js",
+    "index.html": "/devisapp/index.html",
+    "main.fafa3725.css.map": "/devisapp/static/css/main.fafa3725.css.map",
+    "main.cdf7f74a.js.map": "/devisapp/static/js/main.cdf7f74a.js.map",
+    "453.a9db9197.chunk.js.map": "/devisapp/static/js/453.a9db9197.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fafa3725.css",
-    "static/js/main.55dca492.js"
+    "static/js/main.cdf7f74a.js"
   ]
 }
